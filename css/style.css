@@ -1,0 +1,141 @@
+h1 {color: #ff471a;
+    text-align: center;
+		text-shadow: 2px 2px 5px #b3e0ff;
+		font-size: 50px;
+		font-family: 'Notable', sans-serif;
+
+
+	 }
+	 body {background-color: #ffebe6;
+
+	 }
+	 #h1{
+		 margin-bottom: 40px;
+	 }
+	 .div {
+		 height: 500pX;
+		 background-image: url("../img/bilar2.jpg");
+		 margin-top: 140px;
+	 }
+
+/* Meny */
+	 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4d88ff;
+}
+
+li {
+  float: left;
+	font-weight: bold;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #6699ff;
+}
+
+/* Slut på Meny*/
+
+
+.h3 {color: #80aaff; margin-left: 175px; margin-top: 150px;
+
+
+}
+
+#h2 {color: #ff471a;
+    text-align: center;
+		text-shadow: 2px 2px 5px #b3e0ff;
+			margin-bottom: 100px;
+
+
+	}
+/* Start sida bild*/ 
+	.img2 {height:225px; Width:425px; float:left;
+
+	}
+
+	.p1 { display: inline-block;
+  width: 450px;
+  height: 250px;
+  padding: 10px;
+	margin-right: 300px
+  }
+
+	#img4 {height:225px; Width:425px; float:right;
+
+	}
+
+	.cars2 {text-align: right; margin-right: 150px; color: #80aaff; margin-top: 50px;
+
+	}
+
+	.p2 {margin-left: 500px;
+
+	}
+
+#p3 { margin-right: 450px;
+	padding-left: 440px;
+
+}
+
+#rollfigurer {color: #ff471a;
+    text-align: center;
+		text-shadow: 2px 2px 5px #b3e0ff;
+		margin-bottom: 100px;
+
+
+}
+
+.blixten {height:225px; Width:400px;
+	margin-top: 125px;
+	padding: 0px;
+
+	display: flex;
+	}
+
+
+
+
+	.blixtenh4 {text-shadow: 2px 2px 5px #b3e0ff; color: #ff471a;
+		         font-family: 'Notable', sans-serif; text-align: inherit; flex: 33.33%;
+					   padding: 5px;
+
+
+	 }
+
+	<!-- #info {  display: block;
+	  color: black;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+		list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+	  overflow: hidden;
+	  background-color: #ffebe6;
+		float: left;
+		font-weight: lighter;
+
+	} -->
+
+	.sally {height:225px; width:350px; margin-top: 125px; margin-left: 0px;
+	}
+
+	.imgright {float: right; width: 350px;
+  height: 250px;
+	}
+
+	.link {color: #0ea5d8; font-size: 17px;
+
+
+	}
